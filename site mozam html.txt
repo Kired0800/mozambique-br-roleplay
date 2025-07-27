@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mozambique Brasil Roleplay</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <div class="container">
+            <img src="logo.png" alt="Mozambique Brasil Roleplay" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#regras">Regras</a></li>
+                    <li><a href="#noticias">Notícias</a></li>
+                    <li><a href="#download">Download</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Seção Hero -->
+    <section id="home" class="hero">
+        <div class="container">
+            <h1>Mozambique Brasil Roleplay</h1>
+            <p>Entre para um mundo de roleplay intenso e imersivo. Junte-se à nossa comunidade agora!</p>
+            <div class="btn-container">
+                <a href="#download" class="btn">Baixar Agora</a>
+                <a href="https://discord.gg/SEU_LINK" class="btn discord">Discord</a>
+                <a href="https://wa.me/SEU_NUMERO" class="btn zap">Zap (WhatsApp)</a>
+                <a href="#compra" class="btn compra">Comprar</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Características -->
+    <section id="caracteristicas" class="features">
+        <div class="container">
+            <h2>Características do Servidor</h2>
+            <div class="feature-list">
+                <div class="feature-item">
+                    <h3>Sistema de Economia</h3>
+                    <p>Viva a economia real com empregos, comércio e muito mais!</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Eventos Exclusivos</h3>
+                    <p>Participe de eventos semanais e ganhe recompensas incríveis.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Roleplay Imersivo</h3>
+                    <p>Viva uma experiência única com regras e interação realista.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Regras -->
+    <section id="regras" class="rules">
+        <div class="container">
+            <h2>Regras do Servidor</h2>
+            <ul>
+                <li>Respeite os outros jogadores.</li>
+                <li>Mantenha o roleplay realista.</li>
+                <li>Não utilize cheats ou hacks.</li>
+                <li>Evite comportamentos tóxicos.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Notícias -->
+    <section id="noticias" class="news">
+        <div class="container">
+            <h2>Últimas Atualizações</h2>
+            <div class="news-item">
+                <h3>Atualização 1.0 - Novo sistema de empregos!</h3>
+                <p>Agora você pode escolher entre uma variedade de empregos para começar sua vida no servidor.</p>
+            </div>
+            <div class="news-item">
+                <h3>Evento Especial de Feriado</h3>
+                <p>Participe do evento de fim de ano com prêmios incríveis e novas missões!</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download -->
+    <section id="download" class="download">
+        <div class="container">
+            <h2>Baixe o Jogo</h2>
+            <p>Para começar a jogar, faça o download do nosso launcher personalizado.</p>
+            <a href="#" class="btn">Baixar Agora</a>
+        </div>
+    </section>
+
+    <!-- Rodapé -->
+    <footer id="contato">
+        <div class="container">
+            <p>&copy; 2025 Mozambique Brasil Roleplay</p>
+            <div class="social-links">
+                <a href="https://discord.gg/SEU_LINK" target="_blank">Discord</a>
+                <a href="https://wa.me/SEU_NUMERO" target="_blank">Zap (WhatsApp)</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
